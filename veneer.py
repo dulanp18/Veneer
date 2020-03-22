@@ -83,5 +83,3 @@ veneer.show_listings()
 moma.buy_artwork(girl_with_mandolin)
 
 print(girl_with_mandolin)
-
-veneer.show_listings()
